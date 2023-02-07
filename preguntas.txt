@@ -1,0 +1,18 @@
+1. Según su opinión, ¿Qué información personal debe almacenar el sistema para cada usuario que se registra? 
+a. Nombre, correo electrónico y contraseña.
+b. Cedula, correo electrónico y contraseña.
+4. ¿Le parece oportuno que el sistema cuente con restricciones de usuarios delegando permisos a cada uno de ellos?
+a. Si
+b. No
+11. ¿Considera adecuado que las contraseñas estén encriptadas para mayor seguridad?
+a. Sí
+b. No
+12. ¿Cuál persona (usuario del sistema) considera que debe generar el reporte de asistencia a las clases virtuales y presenciales de los docentes invitados?
+a. Personal Administrativo
+b. Docente Invitado
+13. ¿Le parece adecuado que el sistema haga uso de los colores y el logo de la Universidad Iberoamericana del Ecuador?
+a. Sí
+b. No
+14. ¿Le parece adecuado que el sistema genere respaldos de información?
+a. Sí
+b. No
